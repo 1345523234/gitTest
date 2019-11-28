@@ -15,7 +15,7 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
     }
-
+    //演示修改了文件如何提交到github上
 
     public static void main(String[] args) {
         launch(args);
